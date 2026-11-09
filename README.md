@@ -14,11 +14,11 @@
 
 | Vote | Click to Vote | Results |
 |---|---|---|
-| 👍 YES | [Vote YES](https://poll.fizzy.wtf/vote?yourusername.project_poll=yes) | ![Yes](https://poll.fizzy.wtf/count?yourusername.project_poll=yes) |
-| 👎 NO | [Vote NO](https://poll.fizzy.wtf/vote?yourusername.project_poll=no) | ![No](https://poll.fizzy.wtf/count?yourusername.project_poll=no) |
+| 👍 YES | [Vote YES](https://poll.fizzy.wtf/vote?hahacrunchyrollls.project_poll=yes) | ![Yes](https://poll.fizzy.wtf/count?hahacrunchyrollls.project_poll=yes) |
+| 👎 NO | [Vote NO](https://poll.fizzy.wtf/vote?hahacrunchyrollls.project_poll=no) | ![No](https://poll.fizzy.wtf/count?hahacrunchyrollls.project_poll=no) |
 
 ### 📊 Poll Results
 
-![Yes Results](https://poll.fizzy.wtf/show?yourusername.project_poll=yes)
-![No Results](https://poll.fizzy.wtf/show?yourusername.project_poll=no)
+![Yes Results](https://poll.fizzy.wtf/show?hahacrunchyrollls.project_poll=yes)
+![No Results](https://poll.fizzy.wtf/show?hahacrunchyrollls.project_poll=no)
 
