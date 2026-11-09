@@ -12,13 +12,12 @@
 
 ### 🗳️ Quick Question: Do you like The Walking Dead?
 
-| Vote | Click to Vote | Results |
-|---|---|---|
-| 👍 YES | [Vote YES](https://poll.fizzy.wtf/vote?hahacrunchyrollls.project_poll=yes) | ![Yes](https://poll.fizzy.wtf/count?hahacrunchyrollls.project_poll=yes) |
-| 👎 NO | [Vote NO](https://poll.fizzy.wtf/vote?hahacrunchyrollls.project_poll=no) | ![No](https://poll.fizzy.wtf/count?hahacrunchyrollls.project_poll=no) |
+| Option | Vote | Count |
+|:---:|:---:|:---:|
+| 👍 YES | [Click to Vote](https://poll.fizzy.wtf/vote?hahacrunchyrollls.project=yes) | ![Yes](https://poll.fizzy.wtf/count?hahacrunchyrollls.project=yes) |
+| 👎 NO | [Click to Vote](https://poll.fizzy.wtf/vote?hahacrunchyrollls.project=no) | ![No](https://poll.fizzy.wtf/count?hahacrunchyrollls.project=no) |
 
-### 📊 Poll Results
+### 📊 Total Votes
 
-![Yes Results](https://poll.fizzy.wtf/show?hahacrunchyrollls.project_poll=yes)
-![No Results](https://poll.fizzy.wtf/show?hahacrunchyrollls.project_poll=no)
+![Total Votes](https://poll.fizzy.wtf/count?hahacrunchyrollls.project)
 
