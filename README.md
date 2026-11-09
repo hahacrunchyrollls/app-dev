@@ -11,5 +11,5 @@
 
 ### 🗳️ Quick Poll: Which language do you prefer?
 
-[![Python](https://poll-service.com)](https://poll-service.com)
-[![JavaScript](https://poll-service.com)](https://poll-service.com)
+[![Python](https://img.shields.io/badge/Vote-Python-blue?logo=python)](https://github.com/YOUR_USERNAME/YOUR_REPO/discussions)
+[![JavaScript](https://img.shields.io/badge/Vote-JavaScript-yellow?logo=javascript)](https://github.com/YOUR_USERNAME/YOUR_REPO/discussions)
