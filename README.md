@@ -12,13 +12,13 @@
 
 ### 🗳️ Quick Question: Do you like The Walking Dead?
 
-| Vote | Action | Count |
+| Vote | Click to Vote | Results |
 |---|---|---|
-| 👍 Yes | [**VOTE YES**](https://poll.fizzy.wtf/vote?myproject_poll=yes) | ![Yes votes](https://poll.fizzy.wtf/count?myproject_poll=yes) |
-| 👎 No | [**VOTE NO**](https://poll.fizzy.wtf/vote?myproject_poll=no) | ![No votes](https://poll.fizzy.wtf/count?myproject_poll=no) |
+| 👍 YES | [Vote YES](https://poll.fizzy.wtf/vote?yourusername.project_poll=yes) | ![Yes](https://poll.fizzy.wtf/count?yourusername.project_poll=yes) |
+| 👎 NO | [Vote NO](https://poll.fizzy.wtf/vote?yourusername.project_poll=no) | ![No](https://poll.fizzy.wtf/count?yourusername.project_poll=no) |
 
-**📊 Live Poll Results**
+### 📊 Poll Results
 
-![Yes results](https://poll.fizzy.wtf/show?myproject_poll=yes)
-![No results](https://poll.fizzy.wtf/show?myproject_poll=no)
+![Yes Results](https://poll.fizzy.wtf/show?yourusername.project_poll=yes)
+![No Results](https://poll.fizzy.wtf/show?yourusername.project_poll=no)
 
