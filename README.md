@@ -10,7 +10,7 @@
 6. Glenn Rhee- A quick-witted, compassionate former pizza delivery driver and key moral compass for the group.
 
 
-### 🗳️ Quick Poll: Do you like this project?
+### 🗳️ Quick Question: Do you like The Walking Dead?
 
 | Vote | Action | Count |
 |---|---|---|
