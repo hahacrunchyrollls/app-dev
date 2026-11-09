@@ -9,7 +9,7 @@
 5. Maggie Greene / Rhee - The resilient daughter of Hershel who grows from a farm survivor into a hardened community leader.
 6. Glenn Rhee- A quick-witted, compassionate former pizza delivery driver and key moral compass for the group.
 
-### 🗳️ Quick Poll: Which language do you prefer?
+### 🗳️ Quick Question: Do you like The Walking Dead?
 
-[![Python](https://img.shields.io/badge/Vote-Python-blue?logo=python)](https://github.com/YOUR_USERNAME/YOUR_REPO/discussions)
-[![JavaScript](https://img.shields.io/badge/Vote-JavaScript-yellow?logo=javascript)](https://github.com/YOUR_USERNAME/YOUR_REPO/discussions)
+[![Yes](https://img.shields.io/badge/👍-YES-success?style=for-the-badge)](https://github.com/hahacrunchyrollls/app-dev/tree/readme.edits)
+[![No](https://img.shields.io/badge/👎-NO-red?style=for-the-badge)](https://github.com/hahacrunchyrollls/app-dev/tree/readme.edits)
