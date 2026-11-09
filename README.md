@@ -8,25 +8,3 @@
 4. Michonne - A stoic, katana-wielding warrior who joins Rick's group and becomes a central leader.
 5. Maggie Greene / Rhee - The resilient daughter of Hershel who grows from a farm survivor into a hardened community leader.
 6. Glenn Rhee- A quick-witted, compassionate former pizza delivery driver and key moral compass for the group.
-
-
-### 🗳️ Quick Question: Do you like The Walking Dead?
-
-| Vote | Click Here |
-|:---:|:---:|
-| 👍 YES | [VOTE YES](https://poll.fizzy.wtf/vote?hahacrunchyrollls.project=yes) |
-| 👎 NO | [VOTE NO](https://poll.fizzy.wtf/vote?hahacrunchyrollls.project=no) |
-
-### 📊 Live Vote Counts
-
-**👍 YES**
-
-![Yes votes](https://poll.fizzy.wtf/count?hahacrunchyrollls.project=yes)
-
-**👎 NO**
-
-![No votes](https://poll.fizzy.wtf/count?hahacrunchyrollls.project=no)
-
-**Total Votes**
-
-![Total votes](https://poll.fizzy.wtf/count?hahacrunchyrollls.project)
